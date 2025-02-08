@@ -10,6 +10,7 @@ const App = () => {
 }
 
 const style = StyleSheet.create({
+
   
 })
 
